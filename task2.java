@@ -16,10 +16,10 @@ public class task2 {
         if(ans>70.0){
             grade = 'A';
         }
-        else if(ans<70.0 && ans>55){
+        else if(ans<70.0 && ans>55.0){
             grade = 'B';
         }
-        else if(ans<55.0 && ans>33){
+        else if(ans<55.0 && ans>33.0){
             grade = 'C';
                 
         }else{
